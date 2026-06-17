@@ -5,7 +5,7 @@ This project is a smart access control system developed using Arduino Nano and R
 
 ## Project Image
 
-![Project Setup](PHOTO_KA_EXACT_NAAM_YAHAN)
+![Project Setup](project_photo.png)
 
 ## Features
 - RFID card authentication
